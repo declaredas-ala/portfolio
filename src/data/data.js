@@ -12,25 +12,11 @@ export const data=[
     },
     {
         id:2,
-        name:"React JS Application",
+        name:"E-commerce Website",
         image:RealEst,
         github:"",
-        live:"",
+        live:"https://e-commerce-8bn6.onrender.com/",
     },
-    {
-        id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
-    },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
-
+   
 
 ]
