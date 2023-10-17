@@ -1,6 +1,7 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
 import RealEst from '../assets/projects/realestate.jpg'
 import project from '../assets/projects/project.png'
+import haha from '../assets/projects/haha.png'
 
 export const data=[
     {
@@ -13,7 +14,7 @@ export const data=[
     {
         id:2,
         name:"E-commerce Website",
-        image:RealEst,
+        image:haha,
         github:"",
         live:"https://e-commerce-8bn6.onrender.com/",
     },
